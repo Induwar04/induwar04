@@ -9,7 +9,7 @@
 ---
 
 
-<img align="right" height="270" width= "400" alt="GIF" src=" " />
+<img align="left" height="270" width= "400" alt="GIF" src=" " />
 
  
   
